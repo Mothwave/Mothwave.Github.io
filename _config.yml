@@ -14,6 +14,4 @@ example_key: 8
 ---
 
 # Build settings
-gem "jekyll-theme-basically-basic"
-theme: jekyll-theme-basically-basic
-bundle install
+theme: minima 
