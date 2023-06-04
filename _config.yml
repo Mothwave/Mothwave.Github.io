@@ -14,4 +14,6 @@ example_key: 8
 ---
 
 # Build settings
-remote_theme: jekyll/cayman
+gem "jekyll-theme-basically-basic"
+theme: jekyll-theme-basically-basic
+bundle install
