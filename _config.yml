@@ -12,3 +12,6 @@ example_key: example value
 # a comment 
 example_key: example value
 ---
+
+# Build settings
+remote_theme: jekyll/minima
