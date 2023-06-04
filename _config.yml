@@ -6,12 +6,12 @@ author: Mothwave
 
 ---
 # a comment 
-example_key: example value
+example_key: 7
 ---
 ---
 # a comment 
-example_key: example value
+example_key: 8
 ---
 
 # Build settings
-remote_theme: jekyll/Cayman
+remote_theme: jekyll/cayman
