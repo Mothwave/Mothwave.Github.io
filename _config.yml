@@ -14,4 +14,4 @@ example_key: example value
 ---
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/Cayman
